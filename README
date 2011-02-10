@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3448
+
+This is for case insensitive but persistent systems like windows, and makes sure that the case of the file isn't changed by how you invoke vim.
+
+This was created for Git to function correctly since it IS sensitive to case changes.
+
